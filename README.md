@@ -9,7 +9,7 @@ If you want to tweak things yourself, you can try adjusting the volumetric and d
 If you don't want to mess with the code manually, I spent a few days testing and compiling a ready-to-use config file. It is optimized to lock stable FPS on mid-range setups without making the game look like a potato. 
 
 **Grab is on the nexusmods.com:** 
-👉 [https://boobaleh.gumroad.com/l/zdkscv](https://www.nexusmods.com/citiesskylines2/mods/197)
+👉 [https://www.nexusmods.com/citiesskylines2/mods/197](https://www.nexusmods.com/citiesskylines2/mods/197)
 
 **Grab the full config file here:** 
 👉 [https://boobaleh.gumroad.com/](https://boobaleh.gumroad.com/l/zdkscv)
